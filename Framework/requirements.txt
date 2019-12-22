@@ -1,0 +1,4 @@
+selenium==3.14.0
+pytest==4.4.0
+pytest-xdist
+requests
